@@ -1,0 +1,25 @@
+{
+	"name": "PowerShell",
+	"displayName": "PowerShell",
+	"version": "1.4.3",
+	"publisher": "ms-vscode",
+	"description": "Develop PowerShell scripts in Visual Studio Code!",
+	"engines": {
+	  "vscode": "^1.12.0"
+	},
+	"homepage": "https://github.com/tlourey/git-flow-test/blob/master/README.md",
+	"galleryBanner": {
+	  "color": "#ACD1EC",
+	  "theme": "light"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/tlourey/git-flow-test.git"
+	},
+	"dependencies": {
+	  "gitflow": "0.4.1"
+	},
+	"devDependencies": {
+	  "pester": "4.0.8"
+	}
+}
